@@ -1,0 +1,15 @@
+
+[class="container-fluid"]{
+    color: #fbfafa;
+     background-color: rgba(107, 3, 155, 0.658);
+    
+        }
+        .nav-link {
+            color: white !important;
+            font-size: large;
+            }
+            .btn-outline-success{
+                color: white !important;
+                border-color: white;
+            }
+    
